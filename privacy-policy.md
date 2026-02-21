@@ -1,79 +1,79 @@
-Privacy Policy
+<!DOCTYPE html>
+<body>
 
-Meri Diary – Personal Notes App
+<h1>Privacy Policy</h1>
 
-Effective Date: 21 February 2026
+<p><strong>Meri Diary</strong> ("we", "our", or "us") is developed by <strong>Indrajeet Rajbhar</strong>. 
+This Privacy Policy explains how the Meri Diary app handles user information.</p>
 
-Thank you for using Meri Diary. Your privacy is important to us. This Privacy Policy explains how we handle your information.
+<p>Effective Date: January 2026</p>
 
-1. Information We Collect
+<h2>1. Information We Collect</h2>
 
-Meri Diary does NOT collect or store any personal data on external servers.
+<p><strong>Meri Diary does NOT collect, store, or share any personal data on external servers.</strong></p>
 
-All notes, passwords, and diary entries are stored locally on your device.
+<ul>
+    <li>All diary entries are stored locally on your device.</li>
+    <li>We do not require account registration.</li>
+    <li>We do not collect personal information such as name, email, or phone number.</li>
+</ul>
 
-We do not collect:
+<h2>2. Data Storage</h2>
 
-Personal information
+<p>All your notes and diary entries are stored securely on your device. 
+We do not have access to your content.</p>
 
-Contacts
+<h2>3. App Permissions</h2>
 
-Location data
+<p>The app may request the following permissions (if applicable):</p>
 
-Financial information
+<ul>
+    <li><strong>Storage Permission:</strong> To save or backup your diary entries.</li>
+    <li><strong>Biometric / Lock Permission:</strong> To protect your diary with a password or fingerprint lock.</li>
+</ul>
 
-Sensitive personal data
+<p>These permissions are used only for app functionality and not for data collection.</p>
 
-2. Local Data Storage
+<h2>4. Data Security</h2>
 
-All user data (notes, diary entries, lock preferences) is stored securely on your device only.
-We do not upload your data to any cloud server.
+<p>We value your privacy. Since all data is stored locally on your device, 
+you are fully responsible for protecting your device and backups.</p>
 
-If you uninstall the app, your local data may be permanently deleted unless you have created a manual backup.
+<h2>5. Third-Party Services</h2>
 
-3. App Permissions
+<p>Meri Diary does not share data with third parties.</p>
 
-Meri Diary may request limited permissions such as:
+<p>If future versions integrate services (such as cloud backup or analytics), 
+this Privacy Policy will be updated accordingly.</p>
 
-Storage Permission – To save and restore backup files (if backup feature is used).
+<h2>6. Children's Privacy</h2>
 
-Security/Lock Access – To enable app lock functionality.
+<p>Meri Diary is safe for general audiences. 
+We do not knowingly collect personal data from children.</p>
 
-These permissions are used only for core app features and not for data collection.
+<h2>7. Changes to This Privacy Policy</h2>
 
-4. Data Security
+<p>We may update this Privacy Policy from time to time. 
+Any changes will be posted on this page.</p>
 
-We use industry-standard security practices to protect your locally stored data.
-App lock and password protection features help prevent unauthorized access.
+<h2>8. Contact Us</h2>
 
-However, users are responsible for keeping their device secure.
+<p>If you have any questions about this Privacy Policy, you can contact:</p>
 
-5. Third-Party Services
+<p>
+<strong>Developer:</strong> Indrajeet Rajbhar<br>
+<strong>Email:</strong> <a href="mailto:digitalhelpxyz@gmail.com">digitalhelpxyz@gmail.com</a><br>
+<strong>GitHub Repository:</strong> 
+<a href="https://github.com/digitalhelpxyz/Meri-Diary" target="_blank">
+https://github.com/digitalhelpxyz/Meri-Diary
+</a><br>
+<strong>Privacy Policy URL:</strong> 
+<a href="https://digitalhelpxyz.github.io/Meri-Diary/privacy-policy" target="_blank">
+https://digitalhelpxyz.github.io/Meri-Diary/
+</a>
+</p>
 
-Meri Diary does not sell, trade, or share user data with third parties.
+<p>By using Meri Diary, you agree to this Privacy Policy.</p>
 
-If analytics or crash reporting services are added in future updates, this Privacy Policy will be updated accordingly.
-
-6. Children’s Privacy
-
-Meri Diary does not knowingly collect personal information from children under 13 years of age.
-
-7. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time.
-Any changes will be reflected on this page with an updated effective date.
-
-8. Developer Information
-
-Developer: Indrajeet Rajbhar
-GitHub Repository: https://github.com/IndrajeetRajbhar
-
-Email: digitalhelpxyz@gmail.com
-
-9. Contact Us
-
-If you have any questions about this Privacy Policy, you can contact us at:
-
-📧 Email: digitalhelpxyz@gmail.com
-
-By using Meri Diary, you agree to this Privacy Policy.
+</body>
+</html>
